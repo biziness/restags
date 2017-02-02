@@ -8,6 +8,7 @@ Bear that in mind before j'accusing anyone of anything.
 Tags are generated via http://absurdlyobfuscated.com/tagger/ for comments scoring 10 or higher.
 
 **Instructions**
+
 1. Download tag and open with your preferred text editor
   * Note: Sublime is the only one I've got to handle some of these files well - each one is a long single line
   
